@@ -235,3 +235,11 @@ Pipeline for Phase 1 and Phase 2/prescription-pipeline/data
 Pipeline for Phase 1 and Phase 2/prescription-pipeline/libs
 Pipeline for Phase 1 and Phase 2/prescription-pipeline/models
 Pipeline for Phase 1 and Phase 2/prescription-pipeline/output
+
+#Phase 3
+Phase 3 - Edge device and Compression/pipline for edge device/checkpoints
+Phase 3 - Edge device and Compression/pipline for edge device/data
+Phase 3 - Edge device and Compression/pipline for edge device/libs
+Phase 3 - Edge device and Compression/pipline for edge device/models
+Phase 3 - Edge device and Compression/pipline for edge device/onnx_models
+Phase 3 - Edge device and Compression/pipline for edge device/output
